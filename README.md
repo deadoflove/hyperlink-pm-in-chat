@@ -15,6 +15,6 @@ https://metin2.dev/topic/6600-helphyperlink-pw-in-chat/
 
 image:
 
-![](https://github.com/deadoflove/Select-Safebox/blob/main/SelectSafeboxPreview.gif)
+![](https://github.com/deadoflove/hyperlink-pm-in-chat/blob/main/hyperlink.gif)
 
 
